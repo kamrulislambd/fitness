@@ -1,0 +1,337 @@
+
+@media only screen and (min-width:992px) and (max-width:1200px) {
+    .banner-bg {
+    padding: 230px;
+}
+.hero-text p {
+    font-size: 45px;
+    line-height: 55px;
+}
+.btn-book {
+    padding: 12px 15px;
+    font-size: 17px;
+}
+.personal-training {
+    padding: 0;
+}
+.training-inner .training-content {
+    padding: 15px 45px;
+}
+.profile img {
+    width: 80%;
+}
+.training-content h1 {
+    font-size: 35px;
+    line-height: 40px;
+}
+.training-content p {
+    font-size: 14px;
+    line-height: 25px;
+}
+.profile{
+    width: 50%;
+}
+.profile-text {
+    padding: 8px 5px;
+    margin-left: 0;
+    width: 50%;
+}
+.profile-text .profile-title {
+    font-size: 30px;
+    line-height: 30px;
+}
+.profile-text span {
+    line-height: 22px;
+    text-align: justify;
+    display: block;
+    font-size: 17px;
+}
+.subject-box {
+    padding: 25px;
+}
+.subject-box h3 {
+    font-size: 28px;
+    line-height: 35px;
+    margin-bottom: 10px;
+}
+.image-gallery {
+    padding: 30px 0;
+}
+.gallery-item img {
+    width: 235px;
+    height: 250px;
+}
+.team-bg h3 {
+    left: 30%;
+    font-size: 30px;
+}
+.team-bg {
+    padding: 100px;
+}
+.contact-meta {
+    padding: 20px;
+}
+.contact-meta h2 {
+    font-size: 32px;
+}
+.contact-form {
+    padding: 30px 10px;
+    width: 40%;
+}
+.contact-info {
+    width: 27%;
+    padding: 20px;
+    margin-left: 25px;
+}
+.bottom-margin {
+    margin-bottom: 15px;
+}
+
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    .banner-bg {
+        padding: 200px 200px 100px;
+    }
+    .hero-text p {
+        font-size: 40px;
+        line-height: 42px;
+    }
+    .btn-book {
+        padding: 12px 15px;
+        font-size: 17px;
+    }
+    .training-content h1 {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .training-content p {
+        font-size: 15px;
+        line-height: 25px;
+        margin: 10px 0;
+    }
+    .personal-training {
+        padding: 20px 0;
+    }
+    .profile {
+        width: 40%;
+    }
+    .profile-text {
+        padding: 0 5px;
+        width: 60%;
+    }
+    .training-inner .training-content {
+        padding: 30px 35px;
+    }
+    .profile-text .profile-title {
+        font-size: 25px;
+    }
+    .progress-bg {
+        padding: 70px 0;
+    }
+    .heading-text h1 {
+        font-size: 35px;
+        padding: 50px 0 30px;
+    }
+    .subject-box {
+        padding: 10px;
+    }
+    .subject-box h3 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .subject-box p {
+        font-size: 16px;
+        line-height: 20px;
+        margin-top: 10px;
+    }
+    .gallery-title h1 {
+        font-size: 30px;
+        line-height: 50px;
+    }
+    .gallery-title {
+        padding: 80px 0;
+    }
+    .gallery-item img {
+        width: 190px;
+        height: 200px;
+    }
+    .mentors-bg {
+        padding: 100px 0;
+    }
+    .mentor-title h2 {
+        font-size: 35px;
+        line-height: 50px;
+        margin-bottom: 50px;
+    }
+    .team-bg {
+        padding: 80px;
+    }
+    .team-bg h3 {
+        left: 30%;
+        bottom: 15px;
+        font-size: 25px;
+    }
+    .contact-meta {
+        width: 30%;
+        padding: 15px;
+    }
+    .contact-meta h2 {
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    .contact-meta p {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .social-info i {
+        font-size: 15px;
+        padding: 10px;
+        margin-left: 0px;
+    }
+    .contact-form {
+        padding: 20px 10px;
+        width: 40%;
+    }
+    .contact-inner h2 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    input[type="text"], input[type="email"], input[type="number"], textarea {
+        padding: 10px;
+    }
+    .contact-info {
+        width: 30%;
+        padding: 15px;
+    }
+    .contact-info h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 767px){
+    .banner-bg {
+        padding: 90px;
+    }
+    .hero-text p {
+        font-size: 30px;
+        line-height: 35px;
+    }
+    .btn-book {
+        padding: 11px 12px;
+        font-size: 15px;
+    }
+    .d-flex {
+        display: block;
+        text-align: center;
+    }
+    .training-inner .trainer {
+        width: 100%;
+    }
+    .trainer img {
+        width: 100%;
+        height: 600px;
+    }
+    .training-inner .training-content {
+        width: 100%;
+        padding: 20px;
+    }
+    .training-content h1 {
+        font-size: 30px;
+        line-height: 35px;
+        padding-top: 15px;
+    }
+    .training-content p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .profile {
+        width: 85%;
+        margin: 0 auto;
+    }
+    .profile-text {
+        padding: 20px;
+        width: 100%;
+        margin: 0;
+    }
+    
+    p.profile-title {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .heading-text h1 {
+        font-size: 28px;    
+        padding: 0 0 30px;
+    }
+    .subject-box {
+        padding: 40px;
+    }
+    .subject-box h3 {
+        font-size: 20px;
+        line-height: 22px;
+        margin-bottom: 7px;
+    }
+    .subject-box p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .gallery-title {
+        padding: 20px;
+        width: 100%;
+    }
+    .gallery-title h1 {
+        font-size: 28px;
+        line-height: 55px;
+    }
+    .gallery-title p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .gallery-item {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .gallery-item img {
+        width: 100%;
+    }
+    .mentors-bg {
+        padding: 50px 0 30px;
+    }
+    .mentor-title h2 {
+        font-size: 30px;
+        line-height: 10px;
+        margin-bottom: 40px;
+    }
+    .team-bg {
+        padding: 170px;
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .team-bg h3 {
+        left: 28%;
+        bottom: 65px;
+        font-size: 30px;
+    }
+    .contact-meta {
+        width: 100%;
+        padding: 30px;
+        margin-bottom: 10px;
+    }
+    .contact-form {
+        width: 100%;
+    }
+    .contact-info {
+        width: 100%;
+        padding: 50px 0 0;
+        margin: 0;
+    }
+    .bottom-margin {
+        margin-bottom: 18px;
+    }
+
+
+}

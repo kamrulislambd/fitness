@@ -29,9 +29,9 @@
 }
 .hero-text p {
     color: #FFFFFD;
-    font-size: 50px;
+    font-size: 75px;
     text-transform: uppercase;
-    line-height: 60px;
+    line-height: 80px;
     font-weight: 900;
     margin-bottom: 20px;
 }
@@ -43,7 +43,7 @@
     padding: 15px 20px;
     border-radius: 3px;
     font-size: 18px;
-    margin-top: 10px;
+    margin-top: 25px;
     cursor: pointer;
     border: 1px solid var(--red);
 }
@@ -57,11 +57,14 @@
     align-items: center;
     justify-content: space-evenly;
 }
+.training-section{background-color: #F3ECF1;}
 .training-inner .trainer{
     width: 50%;
 }
 .trainer img{
     width: 100%;
+    height: 730px;
+    object-fit: contain;
 }
 .training-inner .training-content {
     width: 50%;
