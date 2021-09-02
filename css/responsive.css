@@ -217,11 +217,11 @@
         padding: 90px;
     }
     .hero-text p {
-        font-size: 30px;
+        font-size: 28px;
         line-height: 35px;
     }
     .btn-book {
-        padding: 11px 12px;
+        padding: 10px 12px;
         font-size: 15px;
     }
     .d-flex {
@@ -240,7 +240,7 @@
         padding: 20px;
     }
     .training-content h1 {
-        font-size: 30px;
+        font-size: 28px;
         line-height: 35px;
         padding-top: 15px;
     }
@@ -263,14 +263,14 @@
         line-height: 30px;
     }
     .heading-text h1 {
-        font-size: 28px;    
+        font-size: 25px;    
         padding: 0 0 30px;
     }
     .subject-box {
         padding: 40px;
     }
     .subject-box h3 {
-        font-size: 20px;
+        font-size: 18px;
         line-height: 22px;
         margin-bottom: 7px;
     }
@@ -283,7 +283,7 @@
         width: 100%;
     }
     .gallery-title h1 {
-        font-size: 28px;
+        font-size: 25px;
         line-height: 55px;
     }
     .gallery-title p {
@@ -302,7 +302,7 @@
         padding: 50px 0 30px;
     }
     .mentor-title h2 {
-        font-size: 30px;
+        font-size: 28px;
         line-height: 10px;
         margin-bottom: 40px;
     }
@@ -314,7 +314,7 @@
     .team-bg h3 {
         left: 28%;
         bottom: 65px;
-        font-size: 30px;
+        font-size: 28px;
     }
     .contact-meta {
         width: 100%;
