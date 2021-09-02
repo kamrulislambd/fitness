@@ -222,7 +222,7 @@
     }
     .btn-book {
         padding: 10px 15px;
-        font-size: 14px;
+        font-size: 12px;
     }
     .d-flex {
         display: block;
@@ -332,6 +332,9 @@
     .bottom-margin {
         margin-bottom: 18px;
     }
+    .footer-area {
+    font-size: 15px;
+}
 
 
 }
