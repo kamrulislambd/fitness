@@ -22,7 +22,7 @@
     margin: 0 auto;
 }
 .banner-bg{
-    background-image: url('/images/banner.jpg');
+    background-image: url('../images/banner.jpg');
     background-position: center;
     background-size: cover;
     padding: 300px;
@@ -118,7 +118,7 @@
 }
 
 .progress-bg{
-    background-image: url('/images/progress.jpg');
+    background-image: url('../images/progress.jpg');
     background-position-x: center;
     background-size: cover;
     padding: 120px 0;
@@ -172,13 +172,13 @@
     padding: 50px 0;
 }
 .mentors-bg{
-    background-image: url('/images/team-bg.jpg');
+    background-image: url('../images/team-bg.jpg');
     background-position: center;
     background-size: cover;
     padding: 120px 0;
 }
 .team-bg{
-    background-image: url('/images/profile.jpg');
+    background-image: url('../images/profile.jpg');
     background-position: center;
     background-size: cover;
     padding: 150px;
