@@ -25,7 +25,7 @@
     background-image: url('../images/banner.jpg');
     background-position: center;
     background-size: cover;
-    padding: 300px;
+    padding: 180px 130px 100px;
 }
 .hero-text p {
     color: #FFFFFD;
